@@ -1,3 +1,6 @@
+ℹ️ Forked from https://github.com/laravie/query-filter. I just released a v3.3.0 to work with Laravel 9.x.
+
+----
 
 Database/Eloquent Query Builder filters for Laravel
 ==============

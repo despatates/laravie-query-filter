@@ -1,5 +1,5 @@
 {
-    "name": "laravie/query-filter",
+    "name": "despatates/laravie-query-filter",
     "description": "Database/Eloquent Query Builder filters for Laravel",
     "type": "library",
     "license": "MIT",
